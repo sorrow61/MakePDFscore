@@ -34,10 +34,3 @@
 - **Pillow** 라이브러리 설치:
   ```bash
   pip install Pillow
-  ```
-
-**방법 B: GitHub 웹사이트에서 바로 만들기**
-1. 재원님의 GitHub 저장소(`https://github.com/sorrow61/MakePDFscore`)에 접속합니다.
-2. 목록 중간에 있는 **[Add a README]** 버튼을 누릅니다.
-3. 편집창에 위 내용을 붙여넣습니다.
-4. 하단의 **[Commit changes...]** 버튼을 누르면 끝납니다.
